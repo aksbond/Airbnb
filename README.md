@@ -1,5 +1,5 @@
 # Airbnb
-Airbnb - Next customer destination country prediction
+Airbnb - Customer next destination country prediction
 
 Code 1 - airbnb_simple_xgboost.py -  Simple XGBoost model
 No missing value treatment
