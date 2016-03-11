@@ -1,4 +1,4 @@
-# Airbnb
+# Airbnb Kaggle competition
 Airbnb - Customer next destination country prediction
 
 Code 1 - airbnb_simple_xgboost.py -  Simple XGBoost model
